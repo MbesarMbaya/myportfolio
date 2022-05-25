@@ -5,7 +5,15 @@ h3{
 }
 p{
     text-align: justify;
+    margin: 50px;
 }
 body{
     background-color: bisque;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px dashed peru;
+    border-radius: 45%;
+    
 }
