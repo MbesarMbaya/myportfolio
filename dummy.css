@@ -1,0 +1,20 @@
+h3{
+    color: red;
+    text-align: center;
+    font-size:larger;
+}
+p{
+    text-align: justify;
+    margin: 50px;
+    border: 2px dotted peru;
+}
+body{
+    background-color: bisque;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px dashed peru;
+    border-radius: 45%;
+    
+}
